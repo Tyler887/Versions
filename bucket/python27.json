@@ -3,6 +3,7 @@
     "license": "Python-2.0",
     "description": "A programming language that lets you work quickly and integrate systems more effectively.",
     "version": "2.7.18",
+    "notes": "Python 2.x is end-of-life. See: https://www.python.org/doc/sunset-python-2/",
     "architecture": {
         "64bit": {
             "url": "https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi",
